@@ -1,2 +1,2 @@
 
-Simple memcache-based session lib for Google AppEngine modelled off Django sessions.
+Simple memcache-based session lib for Google AppEngine modeled off Django sessions.
