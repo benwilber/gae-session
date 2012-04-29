@@ -7,6 +7,7 @@ except ImportError:
     from django.utils import simplejson as json
 
 from google.appengine.ext import db
+from google.appengine.api import memcache
 
 class SessionData(db.Model):
 
